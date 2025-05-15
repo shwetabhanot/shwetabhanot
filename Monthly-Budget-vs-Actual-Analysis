@@ -1,0 +1,20 @@
+# Monthly Budget vs Actual Analysis
+
+## 📝 Project Overview
+
+This Excel-based dashboard compares budgeted vs actual financial performance across key expense categories for a fictional organization. It highlights monthly and year-to-date variances and provides dynamic charts to aid decision-making.
+
+## 🔧 Tools & Skills Used
+- Microsoft Excel (PivotTables, conditional formatting, charts)
+- Budget variance analysis
+- Dynamic dashboard design
+
+## 📈 Key Features
+- Monthly breakdown of actual vs budgeted spend
+- Automatic variance calculations (favorable/unfavorable)
+- Visual indicators and bar charts for performance tracking
+- Slicer to filter by department/cost category
+
+## 💡 Business Insight
+
+This dashboard helps finance teams and department heads quickly identify overspending or savings opportunities, enabling better budget control and resource allocation.
