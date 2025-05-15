@@ -1,0 +1,21 @@
+# Sales Forecasting Model
+
+## 📝 Project Overview
+
+This Excel model forecasts monthly sales using historical data trends and seasonal factors. It's designed for small-to-medium enterprises to better predict revenue and manage cash flow.
+
+## 🔧 Tools & Skills Used
+- Microsoft Excel (LINEST, TREND, FORECAST functions)
+- Time-series analysis
+- Data cleansing and transformation
+- Visualization using charts
+
+## 📈 Key Features
+- Historical sales data analysis
+- Forecasting for upcoming 12 months
+- Seasonality adjustment
+- Visual comparison of actual vs forecasted sales
+
+## 💡 Business Insight
+
+This model enables more accurate revenue planning, helps anticipate demand changes, and supports proactive business strategy.
