@@ -1,0 +1,21 @@
+# Cost Centre Performance Dashboard
+
+## 📝 Project Overview
+
+This Power BI dashboard visualizes expense performance by cost centre, department, and time period. It supports drill-through and filtering to analyze detailed cost drivers.
+
+## 🔧 Tools & Skills Used
+- Power BI
+- Data modeling and DAX measures
+- Visual storytelling
+- Drill-through and filters
+
+## 📈 Key Features
+- Expense breakdown by cost centre and GL account
+- Trend analysis over time
+- Department-level filtering and drill-through reports
+- KPI cards for key metrics (variance, actual, budget)
+
+## 💡 Business Insight
+
+The dashboard provides transparency into departmental costs, supporting accountability and more informed financial management.
