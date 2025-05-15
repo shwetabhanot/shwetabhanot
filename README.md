@@ -41,6 +41,9 @@ Each project folder includes:
    📌 A breakdown of workforce costs across departments with trend insights.
 
 (Additional projects will be added over time.)
+- 🔭 I’m currently working on above project's Power BI files
+  
+- 🌱 I’m currently learning and preparing for Microsoft PL300-  Power BI Data Analyst Associate
 
 ## 📫 Connect with Me
 
