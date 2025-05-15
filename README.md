@@ -30,15 +30,19 @@ Each project folder includes:
 
 1. **Monthly Budget vs Actual Analysis**  
    📌 Excel-based financial dashboard highlighting key variances and performance metrics.
+   -https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Monthly-Budget-vs-Actual-Analysis
 
 2. **Sales Forecasting Model**  
    📌 Excel model using historical sales data and trends to project future revenue.
+   -https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Sales-Forecasting-Model
 
 3. **Cost Centre Performance Dashboard**  
    📌 Power BI dashboard visualizing expenses by cost centres with drill-through capability.
+   -https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Cost-Centre-Performance-Dashboard
 
 4. **Headcount and Payroll Analysis**  
    📌 A breakdown of workforce costs across departments with trend insights.
+   -https://github.com/shwetabhanot/shwetabhanot/blob/main-2025/Headcount-and-Payroll-Analysis
 
 (Additional projects will be added over time.)
 - 🔭 I’m currently working on above project's Power BI files
